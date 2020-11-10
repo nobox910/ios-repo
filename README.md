@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Silica
 
 **Silica** is a static repo generator for jailbroken iOS devices developed by [Shuga](https://shuga.co) and supported by [Ignition](https://ignition.fun).
