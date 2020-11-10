@@ -1,0 +1,12 @@
+Origin: iOS Tweaks - pentext.cloud
+Label: iOS Tweaks - pentext.cloud
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: iOS Tweaks for mobile application pentest
+
+SHA256:
+ f559252bdfa508e1bb685a63858c3d59c9089fc8d15061837204dcd35e1cbd74 590 Packages.bz2
+ 561ef8fb5a8be7c435de091fed269b2a3a11307ae9536d6411ecdecc8cbc69f1 588 Packages.xz

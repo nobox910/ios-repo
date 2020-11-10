@@ -1,0 +1,11 @@
+{
+    "name": "iOS Tweaks - pentext.cloud",
+    "description": "iOS Tweaks for mobile application pentest",
+    "tint": "",
+    "cname": "ios.pentext.cloud",
+    "maintainer": {
+        "name": "nobox910",
+        "email": "tam.quanminh@gmail.com"
+    },
+    "automatic_git": "false"
+}
