@@ -381,6 +381,3 @@ Styles // Allows users to customize how Silica looks
     index.js // JavaScript
     icon.png // Repo icon.
 ```
-=======
-# ios-repo
->>>>>>> Initial commit
