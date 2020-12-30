@@ -14,7 +14,7 @@
     },
     "section": "Tweaks",
     "works_min": "8.0",
-    "works_max": "12.1.2",
+    "works_max": "13.3.1",
     "featured": "true",
     "dependencies": "mobilesubstrate, ws.hbang.common, applist, preferenceloader",
     "changelog": [{
